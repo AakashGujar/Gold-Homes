@@ -37,7 +37,7 @@ Interior Labs is a web application that provides a visually rich and diverse sel
 ## Technologies Used
 
 - JS for adding functionalities
-- Redux for state management
+- HTML5
 - CSS3 for styling
 
 ## Contributing
