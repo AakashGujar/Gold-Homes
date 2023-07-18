@@ -2,7 +2,7 @@
 
 Welcome to Interior Labs - Your one-stop solution for interior design inspiration. Explore a curated collection of stunning interior designs from around the world. Whether you are looking for ideas for your home or a professional designer seeking inspiration, Interior Labs has something for everyone.
 
-![Gold_Homes_Png](screenshots/screenshot1.png)
+![Gold_Homes_Png](images/housebuilding.png)
 
 ## Table of Contents
 - [Description](#description)
@@ -18,6 +18,7 @@ Interior Labs is a web application that provides a visually rich and diverse sel
 
 ## Live Demo
 
+![image](https://github.com/Bexst24/Gold-Homes/assets/109903705/a69be577-899c-4606-a891-3df8045e7bac)
 
 
 ## Installation
